@@ -1,4 +1,4 @@
-name = "cf-workers-telegram-bot-v2"
+name = "telegram-bot"
 main = "packages/worker/src/worker.ts"
 
 workers_dev = true
