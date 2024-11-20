@@ -1,6 +1,6 @@
 {
 	"name": "@codebam/cf-workers-telegram-bot",
-	"version": "7.25.0",
+	"version": "7.27.0",
 	"description": "serverless telegram bot on cf workers",
 	"main": "./dist/main.js",
 	"module": "./dist/main.js",
@@ -31,16 +31,16 @@
 		"url": "https://github.com/codebam/cf-workers-telegram-bot.git"
 	},
 	"devDependencies": {
-		"@cloudflare/workers-types": "^4.20240815.0",
-		"@eslint/js": "^9.9.0",
-		"@typescript-eslint/eslint-plugin": "^8.1.0",
-		"@typescript-eslint/parser": "^8.1.0",
-		"eslint": "^9.9.0",
+		"@cloudflare/workers-types": "^4.20241112.0",
+		"@eslint/js": "^9.15.0",
+		"@typescript-eslint/eslint-plugin": "^8.14.0",
+		"@typescript-eslint/parser": "^8.14.0",
+		"eslint": "^9.15.0",
 		"eslint-config-prettier": "^9.1.0",
-		"globals": "^15.9.0",
+		"globals": "^15.12.0",
 		"prettier": "^3.3.3",
-		"typescript": "^5.5.4",
-		"typescript-eslint": "^8.1.0",
-		"vitest": "^2.0.5"
+		"typescript": "^5.6.3",
+		"typescript-eslint": "^8.14.0",
+		"vitest": "^2.1.5"
 	}
 }
